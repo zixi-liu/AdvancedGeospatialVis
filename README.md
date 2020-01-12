@@ -14,4 +14,4 @@ RSSCN7 Dataset
 RSC11 Dataset
 Brazilian Coffee Scene Dataset
 
-Unsupervised Feature Learning Based Methods: principal component analysis (PCA) [135], k-means clustering, sparse coding [136], and autoencoder [137]. It is worth noting that some unsupervised feature learning models such as sparse coding and autoencoder can be easily stacked to form deeper unsupervised models.
+Unsupervised Feature Learning Based Methods: principal component analysis (PCA), k-means clustering, sparse coding, and autoencoder. It is worth noting that some unsupervised feature learning models such as sparse coding and autoencoder can be easily stacked to form deeper unsupervised models.
