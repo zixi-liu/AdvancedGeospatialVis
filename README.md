@@ -2,4 +2,4 @@
 
 Purpose: This is a tutorial on Remote Sensing Image Scene Classification methods and use cases.
 
-There is a wide range of applications of remote sensing image classification, such as natural hazards detection, LULC determination, geospatial object detection, geographic image retrieval, vegetation mapping, environment monitoring, and urban planning.
+There is a wide range of applications of remote sensing image classification, such as natural hazards detection, LULC determination, geospatial object detection, geographic image retrieval, vegetation mapping, environment monitoring, and urban planning. The advances of remote sensing technology has significantly increased spatial resolution and the within class variability.
